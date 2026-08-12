@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sandra 👋
 
-<!--
-**sandra323/sandra323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer passionate about creating intelligent and user-friendly web experiences.
 
-Here are some ideas to get you started:
+💻 Experienced in:
+- Vue / React / TypeScript ecosystem
+- Building complex web applications
+- Frontend architecture and engineering optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently exploring:
+- AI-powered applications
+- LLM integration
+- WebSocket streaming communication
+- AI chat interfaces
+
+🚀 Featured Projects
+🤖 interview-chat-bot
+
+An AI-powered conversation application built with modern frontend technologies.
+
+Highlights:
+
+Integrated LLM API for intelligent conversations
+Implemented real-time streaming response experience
+Built WebSocket-based communication layer
+Supported conversation history management
+Focused on smooth interaction and user experience
+
+🚀 Always learning and building.
